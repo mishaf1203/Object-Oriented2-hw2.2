@@ -3,4 +3,6 @@ public abstract class Transport {
     public int wheelsCount;
 
     public abstract void updateTyre();
+
 }
+
